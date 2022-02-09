@@ -1,0 +1,11 @@
+D:\projects\GitHub\SOLID-Principle\I-SOLIDPrinciple\I-SOLIDPrinciple\WithoutISP\bin\Debug\net5.0\WithoutISP.deps.json
+D:\projects\GitHub\SOLID-Principle\I-SOLIDPrinciple\I-SOLIDPrinciple\WithoutISP\bin\Debug\net5.0\WithoutISP.dll
+D:\projects\GitHub\SOLID-Principle\I-SOLIDPrinciple\I-SOLIDPrinciple\WithoutISP\bin\Debug\net5.0\ref\WithoutISP.dll
+D:\projects\GitHub\SOLID-Principle\I-SOLIDPrinciple\I-SOLIDPrinciple\WithoutISP\bin\Debug\net5.0\WithoutISP.pdb
+D:\projects\GitHub\SOLID-Principle\I-SOLIDPrinciple\I-SOLIDPrinciple\WithoutISP\obj\Debug\net5.0\WithoutISP.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\GitHub\SOLID-Principle\I-SOLIDPrinciple\I-SOLIDPrinciple\WithoutISP\obj\Debug\net5.0\WithoutISP.AssemblyInfoInputs.cache
+D:\projects\GitHub\SOLID-Principle\I-SOLIDPrinciple\I-SOLIDPrinciple\WithoutISP\obj\Debug\net5.0\WithoutISP.AssemblyInfo.cs
+D:\projects\GitHub\SOLID-Principle\I-SOLIDPrinciple\I-SOLIDPrinciple\WithoutISP\obj\Debug\net5.0\WithoutISP.csproj.CoreCompileInputs.cache
+D:\projects\GitHub\SOLID-Principle\I-SOLIDPrinciple\I-SOLIDPrinciple\WithoutISP\obj\Debug\net5.0\WithoutISP.dll
+D:\projects\GitHub\SOLID-Principle\I-SOLIDPrinciple\I-SOLIDPrinciple\WithoutISP\obj\Debug\net5.0\ref\WithoutISP.dll
+D:\projects\GitHub\SOLID-Principle\I-SOLIDPrinciple\I-SOLIDPrinciple\WithoutISP\obj\Debug\net5.0\WithoutISP.pdb

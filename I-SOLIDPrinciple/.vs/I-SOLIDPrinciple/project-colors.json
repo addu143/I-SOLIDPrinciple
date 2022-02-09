@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "41a8072e-1bf9-45f1-8e90-abe60fca44dd": {
+      "ProjectGuid": "41a8072e-1bf9-45f1-8e90-abe60fca44dd",
+      "DisplayName": "I-SOLIDPrinciple",
+      "ColorIndex": 0
+    },
+    "46a47628-e224-403b-afac-7569af41431c": {
+      "ProjectGuid": "46a47628-e224-403b-afac-7569af41431c",
+      "DisplayName": "WithISP",
+      "ColorIndex": 1
+    },
+    "9e6ddf8c-8c02-4da7-8e5e-b0250c284f87": {
+      "ProjectGuid": "9e6ddf8c-8c02-4da7-8e5e-b0250c284f87",
+      "DisplayName": "WithoutISP",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
